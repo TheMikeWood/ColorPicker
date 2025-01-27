@@ -48,6 +48,9 @@ body {
 .selected {
   border: 2px solid black;
 }
+.selected-black {
+  border: 2px solid gray;
+}
 
 /* colors */
 .red {
